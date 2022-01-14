@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\PYSTACK_WEEK_2.0\imobi\venv"
+VIRTUAL_ENV="C:\Users\Usuario\Documents\Cursos\PYSTACK WEEK 2.0\imobi\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
